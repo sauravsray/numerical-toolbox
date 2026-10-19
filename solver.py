@@ -1,5 +1,9 @@
 def f(x):
+<<<<<<< HEAD
     return x**2 - 5
+=======
+    return x**2 - 4
+>>>>>>> feature/newton-method
 
 #def bisection(a, b, tol=1e-8):
 #    # Implementation will come later
